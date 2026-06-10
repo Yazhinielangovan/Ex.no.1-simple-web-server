@@ -41,7 +41,7 @@ Stop the Spring Boot server once testing is complete.
 
 
 ## Program 
-
+```
 simple-web-server/
 ├── src/
 │   └── main/
@@ -128,8 +128,9 @@ public class HelloController {
  server.port=8081
 
 
-
+```
 
 Output:
 
+<img width="1046" height="552" alt="image" src="https://github.com/user-attachments/assets/4236e54b-38c7-4dc0-93d1-8756471a55fd" />
 
